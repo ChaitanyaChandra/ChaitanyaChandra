@@ -7,4 +7,4 @@
 - 💬 Ask me about Devops
 - 📫 How to reach me: [chaitu.net](https://chaitu.net)
 
-![](https://komarev.com/ghpvc/?username=ChaitanyaChandra)
+![](https://komarev.com/ghpvc/?username=ChaitanyaChandra&color=brightgreen)
