@@ -5,7 +5,7 @@
 - 🌱 I’m Microsoft Certified: DevOps Engineer Expert
 - 👯 I’m looking to collaborate on Devops...
 - 💬 Ask me about Devops
-- 📫 How to reach me: [chaitu.net](https://chaitu.net)
+- 📫 How to reach me: mailto:ChandraChaitanya@icloud.com
 
 <center>
 <table>
