@@ -6,7 +6,6 @@
 - 👯 I’m looking to collaborate on Devops...
 - 💬 Ask me about Devops
 - 📫 How to reach me: [ChandraChaitanya@icloud.com](mailto:ChandraChaitanya@icloud.com)
-- 
 <center>
 <table>
   <tr>
