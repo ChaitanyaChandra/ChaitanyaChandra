@@ -5,8 +5,8 @@
 - 🌱 I’m Microsoft Certified: DevOps Engineer Expert
 - 👯 I’m looking to collaborate on Devops...
 - 💬 Ask me about Devops
-- 📫 How to reach me: mailto:ChandraChaitanya@icloud.com
-
+- 📫 How to reach me: [ChandraChaitanya@icloud.com](mailto:ChandraChaitanya@icloud.com)
+- 
 <center>
 <table>
   <tr>
